@@ -261,6 +261,10 @@ Additional documentation from Microsoft will be included in the folders for the 
 ## Books - Free
 * [Hands-On Linux Administration on Azure](https://azure.microsoft.com/en-us/resources/hands-on-linux-administration-on-azure/)
 
+## Free Microsoft certification practice tests
+
+* [MSCertQuiz](https://mscertquiz.com) - Free Microsoft certification practice tests with instant scoring and detailed explanations
+
 ## Books - Paid
 * [Microsoft Azure Security Infrastructure](https://blogs.msdn.microsoft.com/microsoft_press/2016/08/25/new-book-microsoft-azure-security-infrastructure/)
 * [Monitoring and Operating a Private Cloud](https://www.microsoftpressstore.com/store/exam-ref-70-246-monitoring-and-operating-a-private-9780735686175)
